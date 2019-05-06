@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+@font-face {
+  font-family: 'Aldrich-Regular';
+    font-style: normal;
+    src: url('./assets//fonts/Aldrich/Aldrich-Regular.ttf') format('truetype');
+}
